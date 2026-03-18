@@ -1,9 +1,11 @@
+https://docs.google.com/presentation/d/1bTDHLx3WMeOVR6sS6mL75LZ9RQQP7lFy-suOy3UgReA/edit?usp=sharing
+
 Abstract
 
 This project is a baseball analytics program designed to predict the outcome of high school baseball games using team statistics and player data. The system analyzes key offensive, defensive, and pitching metrics to generate a composite score representing the overall strength of each team. These scores are then compared to estimate the probability that one team will defeat another.
-The program also includes a player database that allows users to search for individual player statistics, retrieve team rosters, and identify the top performers on each team based on composite scores. The system demonstrates the use of several fundamental computer science concepts including sorting algorithms, hashing, normalization techniques, and object-oriented programming.
+The program also includes a player database that allows users to search for individual player statistics, retrieve team rosters, and identify the top performers on each team based on composite scores. The system demonstrates the use of several fundamental computer science concepts including sorting algorithms, hashing, normalization techniques, and object-oriented programming. 
 
- Introduction
+Introduction
    
 Sports analytics has become an important tool for evaluating player and team performance. At the professional level, teams rely heavily on statistical analysis to guide roster construction, player development, and game strategy. While this level of analysis is common in professional baseball, high school teams often lack access to similar analytical tools. This project was developed to apply data structure and algorithm concepts to high school baseball analytics. As a high school baseball coach, I often miss practices and games during the spring season due to school commitments. Creating this tool allows coaches and players to quickly analyze team strengths and weaknesses while gaining a competitive advantage through data-driven insights.
 The program predicts game outcomes by analyzing several statistics that are commonly associated with team success. Additionally, it provides a searchable database of players that allows coaches to analyze opponents and identify key matchups.
